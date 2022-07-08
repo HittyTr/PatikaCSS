@@ -1,0 +1,33 @@
+html{
+    text-align: center;
+    background-image:url(/CSS/background.gif) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+li{
+    list-style-type:none ;
+    color: rgb(238, 222, 82);
+    list-style-position: outside;
+    margin: 0;
+    padding: 0;
+    
+}
+#anaSayfapic{
+    display: none;
+}
+a{
+    color:rgb(213, 247, 162)
+}
+h1{
+    text-align: center;
+    color: darksalmon;
+}
+h2{
+    text-align: left;
+    margin-left: 10%;
+    color: darksalmon;
+}
+ul{
+    list-style-type: none;
+}
